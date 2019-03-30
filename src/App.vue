@@ -4,6 +4,9 @@
     <Bio/>
     <Subscribe/>
     <Nuggets/>
+    <div class="m-6 mx-auto max-w-sm">
+      <a href="/rss.xml">RSS Feed</a>
+    </div>
   </div>
 </template>
 

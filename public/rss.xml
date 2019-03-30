@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <title>JavaScript Nuggets</title>
+    <author>JavaScript Nuggets</author>
+    <description>
+    Where little nuggets of javascript are posted, via twitter.
+    </description>
+    <link>https://www.javascriptnuggets.com</link>
+    <language>en</language>
+<item>
+        <title>Tweet about creating empty pure objects.</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1111675401980571648</link>
+        <pubDate>12:04 PM - Mar 29, 2019</pubDate>
+        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EDid%20you%20know%20that%20when%20you%20create%20an%20object%20in%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2FJavaScript%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23JavaScript%3C%2Fa%3E%20using%20only%20%60%7B%7D%60%20that%20you%20have%20more%20than%20just%20an%20empty%20object%3F%3Cbr%3E%3Cbr%3EUse%20the%20following%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2FjavascriptNugget%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascriptNugget%3C%2Fa%3E%2C%20and%20read%20more%20in%20the%20tweet%20thread%20below%20%F0%9F%91%87%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FYW5KKL6yLx%22%3Epic.twitter.com%2FYW5KKL6yLx%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1111675401980571648%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2029%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+    </item>
+  <item>
+        <title>Tweet about creating an immutable constant</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1111430090846461953</link>
+        <pubDate>7:49 PM - Mar 28, 2019</pubDate>
+        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EEver%20noticed%20that%20JavaScript%20const%20doesn%26%2339%3Bt%20work%20like%20you%20think%20it%20should%20for%20objects%3F%20Well%20thats%20a%20deep%20rabbit%20hole%2C%20and%20heres%20a%20quick%20way%20to%20make%20a%20real%20constant%20object%20using%20Object.freeze.%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2Fk85ZylZGIj%22%3Epic.twitter.com%2Fk85ZylZGIj%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1111430090846461953%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2029%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+    </item>
+  <item>
+        <title>Tweet about how to log to both the console and a file</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1108146983313788928</link>
+        <pubDate>6:23 PM - Mar 19, 2019</pubDate>
+        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EWhen%20I%20want%20to%20write%20to%20both%20the%20console%20and%20a%20log%20file%20in%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fnodejs%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23nodejs%3C%2Fa%3E%2C%20this%20is%20what%20my%20captains.log%20is%20for%20%F0%9F%98%89%F0%9F%A4%AA.%20Simple.%20Easy%20to%20read.%20And%20works%20good%20for%20small%20use%20cases.%20Stardate%2072679.%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FYMaqMoS93U%22%3Epic.twitter.com%2FYMaqMoS93U%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1108146983313788928%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2019%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+    </item>
+  </rss>
