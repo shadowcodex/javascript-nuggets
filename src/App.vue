@@ -2,6 +2,7 @@
   <div class="container mx-auto py-10">
     <About/>
     <Bio/>
+    <Subscribe/>
     <Nuggets/>
   </div>
 </template>
@@ -10,13 +11,15 @@
 import About from "./components/About.vue";
 import Bio from "./components/Bio.vue";
 import Nuggets from "./components/Nuggets.vue";
+import Subscribe from "./components/Subscribe.vue";
 
 export default {
   name: "app",
   components: {
     About,
     Bio,
-    Nuggets
+    Nuggets,
+    Subscribe
   }
 };
 </script>
