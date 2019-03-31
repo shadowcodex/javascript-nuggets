@@ -8,6 +8,13 @@
     <link>https://www.javascriptnuggets.com</link>
     <language>en</language>
 <item>
+        <title>Tweet about performance of javascript JSON with different numeric types</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1112466260116291587</link>
+        <pubDate>4:26 PM - Mar 31, 2019</pubDate>
+        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EAn%20interesting%20thing%20that%20happens%20when%20using%20JSON%20and%20storing%20two%20different%20number%20types%20within%20the%20same%20shape%20of%20JSON.%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fjavascript%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascript%3C%2Fa%3E%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fnodejs%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23nodejs%3C%2Fa%3E%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fjavascriptnuggets%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascriptnuggets%3C%2Fa%3E%3Cbr%3E%3Cbr%3EMore%20information%20in%20the%20thread%20below%20%F0%9F%91%87%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FghV9Js3OmP%22%3Epic.twitter.com%2FghV9Js3OmP%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1112466260116291587%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2031%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+    </item>
+  <item>
         <title>Tweet about creating empty pure objects.</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1111675401980571648</link>
