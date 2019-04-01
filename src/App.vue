@@ -1,9 +1,9 @@
 <template>
   <div class="container mx-auto p-2">
     <About/>
-    <Bio/>
     <Subscribe/>
     <Nuggets/>
+    <Bio/>
     <Footer/>
   </div>
 </template>
