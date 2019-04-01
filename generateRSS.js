@@ -12,6 +12,7 @@ const encode = data => {
 
 let xml = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
     <title>JavaScript Nuggets</title>
     <author>JavaScript Nuggets</author>
     <description>
@@ -43,6 +44,6 @@ for (let i = 0; i < tweets.length; i++) {
   xml += item;
 }
 
-xml += `</rss>`;
+xml += `</channel></rss>`;
 
 fs.writeFileSync(path, xml);

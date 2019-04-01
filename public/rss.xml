@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
     <title>JavaScript Nuggets</title>
     <author>JavaScript Nuggets</author>
     <description>
@@ -72,4 +73,4 @@
           &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;When I want to write to both the console and a log file in &#60;a href="https://twitter.com/hashtag/nodejs?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#nodejs&#60;/a&#62;, this is what my captains.log is for 😉🤪. Simple. Easy to read. And works good for small use cases. Stardate 72679. &#60;a href="https://t.co/YMaqMoS93U"&#62;pic.twitter.com/YMaqMoS93U&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1108146983313788928?ref_src=twsrc%5Etfw"&#62;March 19, 2019&#60;/a&#62;&#60;/blockquote&#62;
         </content:encoded>
     </item>
-  </rss>
+  </channel></rss>
