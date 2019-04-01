@@ -6,6 +6,6 @@
     >Simply put this is a collection of tweets. Each one will be a twitter thread, that acts sort of like a blog post.</p>
     <p
       class="mt-5"
-    >The first tweet in the thread will include an example image for the topic. It is then followed by several tweets of explanations. Finally the last tweet in the thread will announce that the tweet was added to this site.</p>
+    >The first tweet in the thread will include an example image for the topic. It is then followed by several tweets of explanations. That is it. Simple and sweet learning.</p>
   </div>
 </template>
