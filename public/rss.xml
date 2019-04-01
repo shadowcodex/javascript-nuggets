@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <title>JavaScript Nuggets</title>
     <author>JavaScript Nuggets</author>
     <description>
@@ -8,31 +8,68 @@
     <link>https://www.javascriptnuggets.com</link>
     <language>en</language>
 <item>
+        <title>Tweet about performance of queues in JavaScript with LinkedLists vs Arrays</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1112782248619720705</link>
+        <pubDate>1:22 PM - Apr 1, 2019</pubDate>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1112782248619720705. On topic: Tweet about performance of queues in JavaScript with LinkedLists vs Arrays
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1112782248619720705.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;So when you create a queue for storing items to be processed in order of first in first out. How do you normally do it? Like below? That&#8217;s not the best and most efficient way.&#60;a href="https://twitter.com/hashtag/javascript?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascript&#60;/a&#62; &#60;a href="https://twitter.com/hashtag/algorithms?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#algorithms&#60;/a&#62;&#60;br&#62;&#60;br&#62;Lets talk about it in todays &#60;a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascriptnuggets&#60;/a&#62; in the thread below 👇 &#60;a href="https://t.co/lFY5yYmhUc"&#62;pic.twitter.com/lFY5yYmhUc&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1112782248619720705?ref_src=twsrc%5Etfw"&#62;April 1, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
+    </item>
+  <item>
         <title>Tweet about performance of javascript JSON with different numeric types</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1112466260116291587</link>
         <pubDate>4:26 PM - Mar 31, 2019</pubDate>
-        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EAn%20interesting%20thing%20that%20happens%20when%20using%20JSON%20and%20storing%20two%20different%20number%20types%20within%20the%20same%20shape%20of%20JSON.%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fjavascript%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascript%3C%2Fa%3E%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fnodejs%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23nodejs%3C%2Fa%3E%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fjavascriptnuggets%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascriptnuggets%3C%2Fa%3E%3Cbr%3E%3Cbr%3EMore%20information%20in%20the%20thread%20below%20%F0%9F%91%87%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FghV9Js3OmP%22%3Epic.twitter.com%2FghV9Js3OmP%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1112466260116291587%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2031%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1112466260116291587. On topic: Tweet about performance of javascript JSON with different numeric types
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1112466260116291587.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;An interesting thing that happens when using JSON and storing two different number types within the same shape of JSON.&#60;a href="https://twitter.com/hashtag/javascript?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascript&#60;/a&#62; &#60;a href="https://twitter.com/hashtag/nodejs?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#nodejs&#60;/a&#62; &#60;a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascriptnuggets&#60;/a&#62;&#60;br&#62;&#60;br&#62;More information in the thread below 👇 &#60;a href="https://t.co/ghV9Js3OmP"&#62;pic.twitter.com/ghV9Js3OmP&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1112466260116291587?ref_src=twsrc%5Etfw"&#62;March 31, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
     </item>
   <item>
         <title>Tweet about creating empty pure objects.</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1111675401980571648</link>
         <pubDate>12:04 PM - Mar 29, 2019</pubDate>
-        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EDid%20you%20know%20that%20when%20you%20create%20an%20object%20in%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2FJavaScript%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23JavaScript%3C%2Fa%3E%20using%20only%20%60%7B%7D%60%20that%20you%20have%20more%20than%20just%20an%20empty%20object%3F%3Cbr%3E%3Cbr%3EUse%20the%20following%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2FjavascriptNugget%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23javascriptNugget%3C%2Fa%3E%2C%20and%20read%20more%20in%20the%20tweet%20thread%20below%20%F0%9F%91%87%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FYW5KKL6yLx%22%3Epic.twitter.com%2FYW5KKL6yLx%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1111675401980571648%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2029%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1111675401980571648. On topic: Tweet about creating empty pure objects.
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1111675401980571648.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;Did you know that when you create an object in &#60;a href="https://twitter.com/hashtag/JavaScript?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#JavaScript&#60;/a&#62; using only `{}` that you have more than just an empty object?&#60;br&#62;&#60;br&#62;Use the following &#60;a href="https://twitter.com/hashtag/javascriptNugget?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascriptNugget&#60;/a&#62;, and read more in the tweet thread below 👇 &#60;a href="https://t.co/YW5KKL6yLx"&#62;pic.twitter.com/YW5KKL6yLx&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1111675401980571648?ref_src=twsrc%5Etfw"&#62;March 29, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
     </item>
   <item>
         <title>Tweet about creating an immutable constant</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1111430090846461953</link>
         <pubDate>7:49 PM - Mar 28, 2019</pubDate>
-        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EEver%20noticed%20that%20JavaScript%20const%20doesn%26%2339%3Bt%20work%20like%20you%20think%20it%20should%20for%20objects%3F%20Well%20thats%20a%20deep%20rabbit%20hole%2C%20and%20heres%20a%20quick%20way%20to%20make%20a%20real%20constant%20object%20using%20Object.freeze.%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2Fk85ZylZGIj%22%3Epic.twitter.com%2Fk85ZylZGIj%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1111430090846461953%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2029%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1111430090846461953. On topic: Tweet about creating an immutable constant
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1111430090846461953.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;Ever noticed that JavaScript const doesn&#38;#39;t work like you think it should for objects? Well thats a deep rabbit hole, and heres a quick way to make a real constant object using Object.freeze. &#60;a href="https://t.co/k85ZylZGIj"&#62;pic.twitter.com/k85ZylZGIj&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1111430090846461953?ref_src=twsrc%5Etfw"&#62;March 29, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
     </item>
   <item>
         <title>Tweet about how to log to both the console and a file</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1108146983313788928</link>
         <pubDate>6:23 PM - Mar 19, 2019</pubDate>
-        <description>%3Cblockquote%20class%3D%22twitter-tweet%22%20data-lang%3D%22en%22%3E%3Cp%20lang%3D%22en%22%20dir%3D%22ltr%22%3EWhen%20I%20want%20to%20write%20to%20both%20the%20console%20and%20a%20log%20file%20in%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2Fnodejs%3Fsrc%3Dhash%26amp%3Bref_src%3Dtwsrc%255Etfw%22%3E%23nodejs%3C%2Fa%3E%2C%20this%20is%20what%20my%20captains.log%20is%20for%20%F0%9F%98%89%F0%9F%A4%AA.%20Simple.%20Easy%20to%20read.%20And%20works%20good%20for%20small%20use%20cases.%20Stardate%2072679.%20%3Ca%20href%3D%22https%3A%2F%2Ft.co%2FYMaqMoS93U%22%3Epic.twitter.com%2FYMaqMoS93U%3C%2Fa%3E%3C%2Fp%3E%26mdash%3B%20Shannon%20Duncan%20-%20%F0%9F%90%A6%20(%40iamMrDuncan)%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2FiamMrDuncan%2Fstatus%2F1108146983313788928%3Fref_src%3Dtwsrc%255Etfw%22%3EMarch%2019%2C%202019%3C%2Fa%3E%3C%2Fblockquote%3E</description>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1108146983313788928. On topic: Tweet about how to log to both the console and a file
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1108146983313788928.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;When I want to write to both the console and a log file in &#60;a href="https://twitter.com/hashtag/nodejs?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#nodejs&#60;/a&#62;, this is what my captains.log is for 😉🤪. Simple. Easy to read. And works good for small use cases. Stardate 72679. &#60;a href="https://t.co/YMaqMoS93U"&#62;pic.twitter.com/YMaqMoS93U&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1108146983313788928?ref_src=twsrc%5Etfw"&#62;March 19, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
     </item>
   </rss>

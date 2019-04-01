@@ -4,8 +4,14 @@ const { tweets } = require("./src/data/nuggets.js");
 
 const path = "./public/rss.xml";
 
+const encode = data => {
+  return data.replace(/[\u00A0-\u9999<>\&]/gim, function(i) {
+    return "&#" + i.charCodeAt(0) + ";";
+  });
+};
+
 let xml = `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <title>JavaScript Nuggets</title>
     <author>JavaScript Nuggets</author>
     <description>
@@ -21,7 +27,17 @@ for (let i = 0; i < tweets.length; i++) {
         <author>Shannon Duncan</author>
         <link>${tweets[i].link}</link>
         <pubDate>${tweets[i].date}</pubDate>
-        <description>${encodeURIComponent(tweets[i].embed)}</description>
+        <description>Todays javascript nugget can be found at the following link: ${
+          tweets[i].link
+        }. On topic: ${tweets[i].description}
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: ${
+            tweets[i].link
+          }.
+          ${encode("<br>")} 
+          ${encode(tweets[i].embed)}
+        </content:encoded>
     </item>
   `;
   xml += item;

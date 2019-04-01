@@ -2,6 +2,14 @@ module.exports = {
   tweets: [
     {
       description:
+        "Tweet about performance of queues in JavaScript with LinkedLists vs Arrays",
+      link: "https://twitter.com/iamMrDuncan/status/1112782248619720705",
+      date: "1:22 PM - Apr 1, 2019",
+      embed:
+        '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So when you create a queue for storing items to be processed in order of first in first out. How do you normally do it? Like below? That’s not the best and most efficient way.<a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/algorithms?src=hash&amp;ref_src=twsrc%5Etfw">#algorithms</a><br><br>Lets talk about it in todays <a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&amp;ref_src=twsrc%5Etfw">#javascriptnuggets</a> in the thread below 👇 <a href="https://t.co/lFY5yYmhUc">pic.twitter.com/lFY5yYmhUc</a></p>&mdash; Shannon Duncan - 🐦 (@iamMrDuncan) <a href="https://twitter.com/iamMrDuncan/status/1112782248619720705?ref_src=twsrc%5Etfw">April 1, 2019</a></blockquote>'
+    },
+    {
+      description:
         "Tweet about performance of javascript JSON with different numeric types",
       link: "https://twitter.com/iamMrDuncan/status/1112466260116291587",
       date: "4:26 PM - Mar 31, 2019",
