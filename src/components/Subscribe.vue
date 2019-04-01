@@ -1,8 +1,12 @@
 <template>
-  <div class="sm:flex sm:items-center">
+  <div class="flex m-6 mx-auto max-w-sm justify-center">
     <a
-      class="mx-auto mx-w-sm text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-blue-dark text-blue-dark hover:bg-blue-dark hover:text-white"
+      class="mr-2 text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-blue-dark text-blue-dark hover:bg-blue-dark hover:text-white"
       href="https://buttondown.email/shadowcodex"
-    >Click Here to Subscribe to Updates</a>
+    >Subscribe to Updates</a>
+    <a
+      class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple-dark text-purple-dark hover:bg-purple-dark hover:text-white"
+      href="https://discord.gg/ZjsdABA"
+    >Join Discord</a>
   </div>
 </template>

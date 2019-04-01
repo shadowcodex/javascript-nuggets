@@ -7,11 +7,11 @@
         alt
       >
       <div class="text-center sm:text-left sm:flex-grow">
-        <div class="mb-4">
+        <div class="flex flex-wrap mx-auto justify-center mb-5">
           <p class="text-xl leading-tight">{{name}}</p>
           <p class="text-sm leading-tight text-grey-dark">{{title}}</p>
         </div>
-        <div class="flex flex-wrap">
+        <div class="flex flex-wrap mx-auto justify-center">
           <a
             href="https://twitter.com/iamMrDuncan"
             class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-blue text-blue hover:bg-blue hover:text-white"

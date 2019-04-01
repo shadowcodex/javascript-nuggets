@@ -1,12 +1,10 @@
 <template>
-  <div class="container mx-auto py-10">
+  <div class="container mx-auto p-2">
     <About/>
     <Bio/>
     <Subscribe/>
     <Nuggets/>
-    <div class="m-6 mx-auto max-w-sm">
-      <a href="/rss.xml">RSS Feed</a>
-    </div>
+    <Footer/>
   </div>
 </template>
 
@@ -15,6 +13,7 @@ import About from "./components/About.vue";
 import Bio from "./components/Bio.vue";
 import Nuggets from "./components/Nuggets.vue";
 import Subscribe from "./components/Subscribe.vue";
+import Footer from "./components/Footer.vue";
 
 export default {
   name: "app",
@@ -22,7 +21,8 @@ export default {
     About,
     Bio,
     Nuggets,
-    Subscribe
+    Subscribe,
+    Footer
   }
 };
 </script>
