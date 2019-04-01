@@ -9,7 +9,7 @@
           alt
         >
         <div class="text-center sm:text-left sm:flex-grow">
-          <div class="flex flex-wrap mx-auto justify-center mb-5">
+          <div class="text-center mb-5">
             <p class="text-xl leading-tight">{{name}}</p>
             <p class="text-sm leading-tight text-grey-dark">{{title}}</p>
           </div>

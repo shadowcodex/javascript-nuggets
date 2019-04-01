@@ -1,5 +1,12 @@
 <template>
   <div class="m-6 mx-auto max-w-sm">
+    <div class="flex justify-center">
+      <img
+        class="w-16 h-16 mb-5 rounded-full"
+        src="@/assets/jsnuggets.jpg"
+        aria-label="logo for jsnuggets"
+      >
+    </div>
     <h2>What is this?</h2>
     <p
       class="mt-5"
