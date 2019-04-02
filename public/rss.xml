@@ -9,6 +9,19 @@
     <link>https://www.javascriptnuggets.com</link>
     <language>en</language>
 <item>
+        <title>Tweet about objects as references vs objects as values</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1113193040250798081</link>
+        <pubDate>4:34 PM - Apr 2, 2019</pubDate>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1113193040250798081. On topic: Tweet about objects as references vs objects as values
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1113193040250798081.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;When you copy an object, how you copy it matters. In the attached nugget you can see that if you are not expecting it, you may end up with changing values you didn&#8217;t mean to.&#60;a href="https://twitter.com/hashtag/javascript?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascript&#60;/a&#62; &#60;a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascriptnuggets&#60;/a&#62; &#60;br&#62;&#60;br&#62;More info and answers in the twitter thread below 👇 &#60;a href="https://t.co/OiEZs1IoS8"&#62;pic.twitter.com/OiEZs1IoS8&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1113193040250798081?ref_src=twsrc%5Etfw"&#62;April 2, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
+    </item>
+  <item>
         <title>Tweet about performance of queues in JavaScript with LinkedLists vs Arrays</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1112782248619720705</link>

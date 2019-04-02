@@ -1,6 +1,13 @@
 module.exports = {
   tweets: [
     {
+      description: "Tweet about objects as references vs objects as values",
+      link: "https://twitter.com/iamMrDuncan/status/1113193040250798081",
+      date: "4:34 PM - Apr 2, 2019",
+      embed:
+        '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you copy an object, how you copy it matters. In the attached nugget you can see that if you are not expecting it, you may end up with changing values you didn’t mean to.<a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&amp;ref_src=twsrc%5Etfw">#javascriptnuggets</a> <br><br>More info and answers in the twitter thread below 👇 <a href="https://t.co/OiEZs1IoS8">pic.twitter.com/OiEZs1IoS8</a></p>&mdash; Shannon Duncan - 🐦 (@iamMrDuncan) <a href="https://twitter.com/iamMrDuncan/status/1113193040250798081?ref_src=twsrc%5Etfw">April 2, 2019</a></blockquote>'
+    },
+    {
       description:
         "Tweet about performance of queues in JavaScript with LinkedLists vs Arrays",
       link: "https://twitter.com/iamMrDuncan/status/1112782248619720705",
