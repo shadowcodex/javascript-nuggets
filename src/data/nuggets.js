@@ -1,6 +1,13 @@
 module.exports = {
   tweets: [
     {
+      description: "Tweet about calling functions dynamically on an object",
+      link: "https://twitter.com/iamMrDuncan/status/1115666616367316992",
+      date: "12:23 PM - Apr 9, 2019",
+      embed:
+        '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In this <a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&amp;ref_src=twsrc%5Etfw">#javascriptnuggets</a> example we show how to call a function dynamically that is stored in an object. Fun fact, this works on classes and prototype chains because they are just objects too!<a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/nodejs?src=hash&amp;ref_src=twsrc%5Etfw">#nodejs</a> <a href="https://t.co/sainziWsj6">pic.twitter.com/sainziWsj6</a></p>&mdash; Shannon Duncan - 🐦 (@iamMrDuncan) <a href="https://twitter.com/iamMrDuncan/status/1115666616367316992?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote>'
+    },
+    {
       description: "Tweet about objects as references vs objects as values",
       link: "https://twitter.com/iamMrDuncan/status/1113193040250798081",
       date: "4:34 PM - Apr 2, 2019",

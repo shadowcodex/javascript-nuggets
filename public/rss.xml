@@ -9,6 +9,19 @@
     <link>https://www.javascriptnuggets.com</link>
     <language>en</language>
 <item>
+        <title>Tweet about calling functions dynamically on an object</title>
+        <author>Shannon Duncan</author>
+        <link>https://twitter.com/iamMrDuncan/status/1115666616367316992</link>
+        <pubDate>12:23 PM - Apr 9, 2019</pubDate>
+        <description>Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1115666616367316992. On topic: Tweet about calling functions dynamically on an object
+        </description>
+        <content:encoded>
+          Todays javascript nugget can be found at the following link: https://twitter.com/iamMrDuncan/status/1115666616367316992.
+          &#60;br&#62; 
+          &#60;blockquote class="twitter-tweet" data-lang="en"&#62;&#60;p lang="en" dir="ltr"&#62;In this &#60;a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascriptnuggets&#60;/a&#62; example we show how to call a function dynamically that is stored in an object. Fun fact, this works on classes and prototype chains because they are just objects too!&#60;a href="https://twitter.com/hashtag/javascript?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#javascript&#60;/a&#62; &#60;a href="https://twitter.com/hashtag/nodejs?src=hash&#38;amp;ref_src=twsrc%5Etfw"&#62;#nodejs&#60;/a&#62; &#60;a href="https://t.co/sainziWsj6"&#62;pic.twitter.com/sainziWsj6&#60;/a&#62;&#60;/p&#62;&#38;mdash; Shannon Duncan - 🐦 (@iamMrDuncan) &#60;a href="https://twitter.com/iamMrDuncan/status/1115666616367316992?ref_src=twsrc%5Etfw"&#62;April 9, 2019&#60;/a&#62;&#60;/blockquote&#62;
+        </content:encoded>
+    </item>
+  <item>
         <title>Tweet about objects as references vs objects as values</title>
         <author>Shannon Duncan</author>
         <link>https://twitter.com/iamMrDuncan/status/1113193040250798081</link>
