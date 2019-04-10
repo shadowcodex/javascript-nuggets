@@ -1,6 +1,13 @@
 module.exports = {
   tweets: [
     {
+      description: "Tweet about spread and rest operators 1 of 7",
+      link: "https://twitter.com/iamMrDuncan/status/1116025934451224577",
+      date: "12:11 PM - Apr 10, 2019",
+      embed:
+        '<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Need a simple way to clone an object and add properties to it at the same time? <br><br>A shallow clone can be done like this <a href="https://twitter.com/hashtag/javascriptnuggets?src=hash&amp;ref_src=twsrc%5Etfw">#javascriptnuggets</a> example. Here we clone `car` into `tesla` and add the `energy` property to it. <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/nodejs?src=hash&amp;ref_src=twsrc%5Etfw">#nodejs</a><br><br>Spread &amp; Rest series 1/7 <a href="https://t.co/d35aBQCsiN">pic.twitter.com/d35aBQCsiN</a></p>&mdash; Shannon Duncan - 🐦 (@iamMrDuncan) <a href="https://twitter.com/iamMrDuncan/status/1116025934451224577?ref_src=twsrc%5Etfw">April 10, 2019</a></blockquote>'
+    },
+    {
       description: "Tweet about calling functions dynamically on an object",
       link: "https://twitter.com/iamMrDuncan/status/1115666616367316992",
       date: "12:23 PM - Apr 9, 2019",
